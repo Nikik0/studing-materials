@@ -5,7 +5,7 @@ spring:
   datasource:
     password: dev123
   r2dbc:
-    url: r2dbc:pool:postgres://localhost:5445/users-db
+    url: r2dbc:pool:postgres://localhost:5445/materials-db
     username: dev
     password: dev123
 #  flyway:
